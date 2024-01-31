@@ -1,0 +1,35 @@
+.nav-bar{
+    border: 10px solid white;
+    background-color: black;
+    border: white;
+    display: flex;
+    color: white;
+}
+
+.logo{
+    margin-left: 10px;
+    margin-top: 13px;
+    color: rgb(149, 149, 24);
+    font-weight: bold;
+}
+
+
+
+.attribute{
+    margin-left: 200px;
+}
+.btn{
+    margin-top: 10px;
+    background-color: rgb(204, 204, 32);
+    color: white;
+    height: 28px;
+}
+
+input{
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: white;
+    height: 20px
+     
+    
+}
